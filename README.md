@@ -1,2 +1,2 @@
 # OpenZeppelin-Flattened
-A repository containing flattened files of the popular OpenZeppelin library.
+A repository containing flattened files of the popular OpenZeppelin library. The OpenZeppelin library provides secure and tested Smart Contract code for Ethereum and other blockchain platforms. The flattened files in this repository make it easier to audit and verify the code, without having to navigate through multiple contract files. This repository is maintained by 0xblackskull and is provided as a resource for developers and auditors in the blockchain community.
